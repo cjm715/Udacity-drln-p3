@@ -1,4 +1,4 @@
-# Project 3
+# Deep deterministic policy gradient for solving Unity's tennis environment
 
 <img src="trained_agent_tennis.gif" width="400">
 
